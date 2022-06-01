@@ -1,16 +1,12 @@
-# Sintaxe e Operadores - Atividade Prática.
-
-![](C:\Users\Davidson&Paty\Desktop\BootCamp-Decola-Tech-DIO\Atividade-Operadores\img\transferir.jpg)
+# Sintaxe e Operadores - Atividade Prática. <img src=https://github.com/Deivison-Vitorino/BootCamp-Decola-Tech-DIO/blob/master/Atividade-Operadores/img/transferir.jpg dtyle=40px />
 
 
-
-Atividade realizada  Decola Tech 3a edição no módulo **JavaScript**.
-
-![](C:\Users\Davidson&Paty\Desktop\BootCamp-Decola-Tech-DIO\Atividade-Operadores\img\LogoDecolaTech.png)
+Atividade realizada no Bootcamp Decola Tech 3a edição no módulo **JavaScript**.
+Objetivo do curso foi a introdução dos principais operadores da linguagem JavaScript para manipulação de valores nos códigos.
 
 
+<img src="https://github.com/Deivison-Vitorino/BootCamp-Decola-Tech-DIO/blob/master/Atividade-Operadores/DecolaTech3.png" style=225px />
 
-Objetivo do curso foi a introdução dos principais operadores do JavaScript para manipulação de valores nos códigos.
 
 
 
